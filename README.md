@@ -1,9 +1,14 @@
 TuringMachine
-=============
+===============================
 
-Turing Machine project for Software Engineering I course
+Turing Machine Application for Software Engineering I course at WSU Tri-Cities
+
 By: Taylor Tamblin
-WSU Tri-Cities
+
+Project Information
+==========================
+
+This program was written in the C++ language.
 
 #######################
 # Using This Software #
